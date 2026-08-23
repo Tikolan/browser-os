@@ -1,4 +1,4 @@
-#Browser OS: Ein Betriebssystem, das einfach im Browser lebt
+# Browser OS: Ein Betriebssystem, das einfach im Browser lebt
 
 Stell dir vor, du brauchst keinen Installer mehr. Kein Setup, kein Warten, kein „Systemvoraussetzungen prüfen“. Du öffnest einen Browser – und hast einen kompletten Desktop vor dir. Mit Fenstern, Apps, einem App-Katalog zum Nachinstallieren. Genau das ist Browser OS.
 Was ist Browser OS?
@@ -16,7 +16,7 @@ Was kann es schon?
     Ein App-Katalog, über den sich weitere Apps direkt nachinstallieren lassen
     Sync zwischen mehreren Geräten – Einstellungen und Apps bleiben auf all deinen Rechnern gleich
 
-#Warum das Ganze?
+# Warum das Ganze?
 
 Die Idee dahinter: möglichst wenig Reibung zwischen „ich will etwas ausprobieren“ und „es läuft“. Kein Account nötig, kein Download, keine Wartezeit. Gerade für Tüftler, Bastler und alle, die gerne mit wenig Aufwand viel experimentieren, ist das ein spannendes Spielfeld – ein System, in dem man einfach mal reinschauen und mitbauen kann, ohne erst tief in Systemarchitektur einsteigen zu müssen.
 Open Source, offen für alle
